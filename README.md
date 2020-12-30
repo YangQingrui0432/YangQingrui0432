@@ -1,4 +1,9 @@
 ### Hi there 👋
+```
+fun main(){
+  println("Hi there")
+}
+```
 
 <!--
 **YangQingrui0432/YangQingrui0432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
