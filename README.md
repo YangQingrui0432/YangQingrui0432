@@ -1,7 +1,6 @@
-### Hi there 👋
 ```
 fun main(){
-  println("Hi there")
+  println("Hello")
 }
 ```
 
